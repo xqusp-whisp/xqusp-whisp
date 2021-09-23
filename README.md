@@ -1,10 +1,11 @@
-My name is augie and here is my readme/about me
+My name is xqusp and here is my readme/about me
 
 ------
 
 - game developer
 - blender modeler
--software engineer
+- software engineer
+- front end developer
 - I'm currently learning:
 Java
 ------
