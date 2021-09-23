@@ -4,8 +4,9 @@ My name is augie and here is my readme/about me
 
 - game developer
 - blender modeler
+-software engineer
 - I'm currently learning:
-c++ and the unreal engine engine 4's blueprint system.
+Java
 ------
 
 
@@ -18,34 +19,11 @@ Stage • alpha/in development
 
 
 Contributers • Me (atm)
-Developers   • Me (atm)
+Developers   • Me, other people can't say
 Where to find when it comes out • Steam
 
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- If you want to contact me please message me on discord:
- 
-xqusp#8888
-------
-
-------
-YouTube:
-
-xqsp
 
 
 <!---
