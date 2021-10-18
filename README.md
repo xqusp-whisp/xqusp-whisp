@@ -19,4 +19,6 @@ My name is xqusp but you could probably already tell by that up above, I love pr
 
 </details><br>
 
-[![paypal.me/anuraghazra](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/projectlunar63@gmail.com) - Buy me a coffee?. :coffee:
+<a href="https://www.patreon.com/join/xqusp/">
+  <img src="https://user-images.githubusercontent.com/49985341/137796738-217f6fc6-bcba-4d67-924e-63cc9e292a17.png">
+</a>
