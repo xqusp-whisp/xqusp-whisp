@@ -1,4 +1,4 @@
-# Hi I'm xqusp** <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+#### Hi I'm xqusp <a href=""><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 My name is xqusp but you could probably already tell by that up above, I love programming, gaming and anything that has to do with technology. I've been developing for the past 4 year's, I've mainly been doing front end development (UI for website and programs) but I'm starting to learn new languages like c, java, and cpp. 
 
 ### Languages and Tools:
