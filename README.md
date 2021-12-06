@@ -12,9 +12,9 @@ My name is xqusp but you could probably already tell by that up above, I love pr
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" /><br>
 
 ---
-<details>
   
 ![xqusp-whisp's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqusp-whisp&show_icons=true&theme=radical)
+
 <a href="https://www.patreon.com/join/xqusp/">
   <img src="https://user-images.githubusercontent.com/49985341/137796738-217f6fc6-bcba-4d67-924e-63cc9e292a17.png">
 </a>
