@@ -13,12 +13,8 @@ My name is xqusp but you could probably already tell by that up above, I love pr
 
 ---
 <details>
-  <summary>GitHub Stats</summary>
-
- ![xqusp-whisp's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqusp-whisp&show_icons=true&theme=radical)
-
-</details><br>
-
+  
+![xqusp-whisp's GitHub stats](https://github-readme-stats.vercel.app/api?username=xqusp-whisp&show_icons=true&theme=radical)
 <a href="https://www.patreon.com/join/xqusp/">
   <img src="https://user-images.githubusercontent.com/49985341/137796738-217f6fc6-bcba-4d67-924e-63cc9e292a17.png">
 </a>
